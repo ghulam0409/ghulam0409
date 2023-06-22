@@ -10,6 +10,7 @@
 - IDR 91,225,700 using debitcracker 01/08/2022
 - IDR 24,299,000 using debitcracker for CC 09/06/2023
 - IDR 10,300,000 using debitcracker for CC 19/06/2023
+- IDR 49,445,905 using debitcracker for CC 22/06/2023
 
 
 
