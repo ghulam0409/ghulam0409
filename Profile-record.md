@@ -1,5 +1,5 @@
-- @ghulam0409/github/prof-cracker/webexploiy
-- my trx record :
+- @ghulam0409/github/prof-cracker/webexploit
+- trx record :
 - USD 7000 using debitcracker 19/02/2020
 - USD 1430 using debitcracker 02/04/2020
 - IDR 625,200,000 using debitcracker 15/04/2020
